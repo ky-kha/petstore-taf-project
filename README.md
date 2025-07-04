@@ -23,11 +23,11 @@ petstore-taf-project/
 │   └── test_pet_api.py     # Main test suite
 ├── utils/                  # Test utilities
 │   ├── __init__.py
-│   └── data_generator.py  # Test data generation
-├── .env                   # Environment variables (API keys)
-├── conftest.py            # Pytest fixtures and configuration
-├── pytest.ini             # Pytest settings
-└── requirements.txt       # Project dependencies
+│   └── data_generator.py   # Test data generation
+├── .env                    # Environment variables (API keys)
+├── conftest.py             # Pytest fixtures and configuration
+├── pytest.ini              # Pytest settings
+└── requirements.txt        # Project dependencies
 ```
 
 ## Technology Stack
