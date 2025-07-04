@@ -1,0 +1,17 @@
+# Core testing framework
+pytest>=8.0.0
+
+# HTTP requests for API testing  
+requests>=2.31.0
+
+# YAML configuration support
+PyYAML>=6.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# HTML test reporting
+pytest-html>=4.0.0
+
+# Metadata for test reports
+pytest-metadata>=3.0.0
